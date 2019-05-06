@@ -1,10 +1,10 @@
-html{
+html {
     font-family: "nanum Gothic";
     background-color: #dbdbdb
 }
 
 
-
+/* Top banner Coloring */
 header {
   background-color: #d32f2f;
   border: 3px solid #ff8a80;
@@ -14,12 +14,14 @@ header {
   padding: 
 }
 
+/* Top banner text allignment */
 .banner {
     text-align: center;
     margin: 30px auto;
     padding: 0 20px;
     }
 
+/* Top banner text formatting */
 .btext {
     color: #E0E0E0 !important;
     text-transform: uppercase;
@@ -31,6 +33,7 @@ header {
     
 }
 
+/* tons of stuff to make sure the links don't look super out of place */
 .li:hover {
     color: #9E9E9E;
 }
@@ -48,6 +51,7 @@ a:hover {
     color: #9E9E9E
 }
 
+/* formatting for most of the text, whether that be the color or the position */
 p {
     color: black;
     margin-top: 00px;
@@ -78,6 +82,7 @@ h2 {
     padding-left: 25%;
 }
 
+/* making sure the image doesn't go way off screen */
 .aegis-img {
    height: 600px;
     padding-left: 45%;
