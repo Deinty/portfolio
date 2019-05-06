@@ -21,7 +21,7 @@ header {
     }
 
 .btext {
-    color: #E0E0E0;
+    color: #E0E0E0 !important;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 24px;
